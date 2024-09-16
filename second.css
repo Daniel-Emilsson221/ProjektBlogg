@@ -1,0 +1,17 @@
+#title{
+    text-align: center;
+    border: 2px solid black;
+    margin: auto;
+}
+#textborder{
+    border: 2px solid black;
+    margin-top: 20px;
+}
+#text2{
+    text-align: left;
+    font-size: larger;
+}
+.img1{
+    width: 24vw;
+    display: inline-block;
+}
